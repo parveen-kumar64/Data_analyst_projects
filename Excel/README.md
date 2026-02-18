@@ -45,6 +45,11 @@ It is designed to track revenue, expenses, profit, and performance across multip
 
 <img width="1370" height="736" alt="Screenshot 2026-02-17 072958" src="https://github.com/user-attachments/assets/d8cd5d7f-9860-47a3-80df-56f3ec2551ce" />
 
+### 2nd Dashboard with 3d visualization and slicer and data souce is SQL
+<img width="1027" height="808" alt="Screenshot 2026-02-18 071445" src="https://github.com/user-attachments/assets/e2b56577-4d38-4070-b08a-6d6c489d5623" />
+
+
+
 
 
 
